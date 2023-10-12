@@ -1,0 +1,53 @@
+.title
+{
+    background-color: black;
+  color: aliceblue;
+   font-size: larger;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   display: flex;
+   justify-content: start;
+}
+.value
+{
+    display:flex;
+    justify-content: center;
+    background-color: green;
+
+
+}
+.header {
+    background-color: black;
+    color: #fff;
+    text-align: right;
+    padding: 10px;
+    border: 1.5px solid rgb(37, 35, 35);
+  }
+  
+  h5 {
+    margin: 0;
+  }
+  img{
+    
+    border-radius: 25%;
+  }
+.userInput
+{
+    /* display: flex; */
+    padding:10px;
+    box-sizing: border-box;
+}
+body{
+    background-color: black;
+}
+.button{
+    display:flex;
+    justify-content: center;
+}
+
+.card{
+    /* background-image: linear-gradient(65deg,green,rgb(10, 10, 10)); */
+    background-color: black;
+    color: ghostwhite;
+    /* border: 1.5px solid rgb(24, 23, 23); */
+    border: 1.5px solid rgb(37, 35, 35);
+}
